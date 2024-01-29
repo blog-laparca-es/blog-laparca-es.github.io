@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="25cm" height="13cm" viewBox="20 88 492 260" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="21.075" y="90" width="203.85" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="21.075" y="90" width="203.85" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="123" y="112.9">
+      <tspan x="123" y="112.9">Acción que procude un error</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="123,173.456 200.088,212 123,250.544 45.9118,212 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="123,173.456 200.088,212 123,250.544 45.9118,212 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="123" y="215.9">
+      <tspan x="123" y="215.9">¿Hay error?</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="123" y1="128" x2="123" y2="163.72"/>
+    <polygon style="fill: #000000" points="123,171.22 118,161.22 123,163.72 128,161.22 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="123,171.22 118,161.22 123,163.72 128,161.22 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="275.4" y="193" width="235.2" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="275.4" y="193" width="235.2" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="393" y="215.9">
+      <tspan x="393" y="215.9">Parada ordenada de la aplicación</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="200.088" y1="212" x2="265.664" y2="212"/>
+    <polygon style="fill: #000000" points="273.164,212 263.164,217 265.664,212 263.164,207 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="273.164,212 263.164,217 265.664,212 263.164,207 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="25.875" y="310" width="194.25" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="25.875" y="310" width="194.25" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="123" y="332.9">
+      <tspan x="123" y="332.9">Continuar</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="123" y1="250.544" x2="123" y2="300.264"/>
+    <polygon style="fill: #000000" points="123,307.764 118,297.764 123,300.264 128,297.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="123,307.764 118,297.764 123,300.264 128,297.764 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="222" y="199">
+    <tspan x="222" y="199">Sí</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="133" y="277">
+    <tspan x="133" y="277">No</tspan>
+  </text>
+</svg>

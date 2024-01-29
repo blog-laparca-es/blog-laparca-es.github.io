@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="17cm" viewBox="37 26 431 329" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="43.975" y="27" width="162.05" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="43.975" y="27" width="162.05" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="125" y="49.9">
+      <tspan x="125" y="49.9">Acción asíncrona (AA)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="66.55" y="117" width="116.9" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="66.55" y="117" width="116.9" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="125" y="139.9">
+      <tspan x="125" y="139.9">Otras acciones</tspan>
+    </text>
+  </g>
+  <g>
+    <polygon style="fill: #ffffff" points="125,189.506 211.988,233 125,276.494 38.0118,233 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="125,189.506 211.988,233 125,276.494 38.0118,233 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="125" y="236.9">
+      <tspan x="125" y="236.9">¿AA con error?</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="271.075" y="214" width="195.85" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="271.075" y="214" width="195.85" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="369" y="236.9">
+      <tspan x="369" y="236.9">Tratamiento de error de AA</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="82.625" y="316" width="84.75" height="38"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="82.625" y="316" width="84.75" height="38"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="125" y="338.9">
+      <tspan x="125" y="338.9">Continuar</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="125" y1="65.9861" x2="125" y2="107.264"/>
+    <polygon style="fill: #000000" points="125,114.764 120,104.764 125,107.264 130,104.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="125,114.764 120,104.764 125,107.264 130,104.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="125" y1="155" x2="125" y2="179.77"/>
+    <polygon style="fill: #000000" points="125,187.27 120,177.27 125,179.77 130,177.27 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="125,187.27 120,177.27 125,179.77 130,177.27 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="125" y1="276.494" x2="125" y2="306.264"/>
+    <polygon style="fill: #000000" points="125,313.764 120,303.764 125,306.264 130,303.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="125,313.764 120,303.764 125,306.264 130,303.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="211.988" y1="233" x2="261.339" y2="233"/>
+    <polygon style="fill: #000000" points="268.839,233 258.839,238 261.339,233 258.839,228 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="268.839,233 258.839,238 261.339,233 258.839,228 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="226" y="216">
+    <tspan x="226" y="216">Sí</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="138" y="290">
+    <tspan x="138" y="290">No</tspan>
+  </text>
+</svg>
